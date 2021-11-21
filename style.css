@@ -1,0 +1,11 @@
+body{
+  background-image: url(./SL_073119_22070_04.png);
+  background-size: cover;
+}
+canvas {
+  background-color: #014f7d;
+}
+
+.forError {
+  height: 50px;
+}
